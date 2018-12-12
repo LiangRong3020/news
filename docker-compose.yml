@@ -132,6 +132,7 @@ services:
       - db
     volumes:
       - ./mysql_db/code:/home/jovyan/work/
+      - /etc/localtime:/etc/localtime
     command: start-notebook.sh --NotebookApp.token=''
     networks:
       - elk
@@ -151,6 +152,7 @@ services:
     command: start-notebook.sh --NotebookApp.token=''
     volumes:
       - ./line_bot/code:/home/jovyan/work
+      - /etc/localtime:/etc/localtime
     networks:
       - elk
 
