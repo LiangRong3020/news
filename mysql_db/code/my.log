@@ -1,3 +1,14 @@
-01-02 18:08 werkzeug     INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
-01-02 18:09 werkzeug     INFO     172.20.0.12 - - [02/Jan/2019 18:09:07] "POST /news HTTP/1.1" 200 -
-01-02 18:09 werkzeug     INFO     172.20.0.12 - - [02/Jan/2019 18:09:34] "POST /news HTTP/1.1" 200 -
+01-06 16:35 werkzeug     INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+01-06 16:35 werkzeug     INFO     172.25.0.6 - - [06/Jan/2019 16:35:49] "GET /push_news HTTP/1.1" 200 -
+01-06 16:35 werkzeug     INFO     172.25.0.6 - - [06/Jan/2019 16:35:49] "GET /push_needed/1 HTTP/1.1" 200 -
+01-06 16:35 werkzeug     INFO     172.25.0.6 - - [06/Jan/2019 16:35:49] "GET /keyword_title/%E3%80%8C%E5%A4%9C%E8%A5%B2%E3%80%8D%E6%BF%80%E5%8C%96%E7%B6%A0%E6%94%AF%E6%8C%81%E8%80%85%20%E9%99%B3%E5%85%B6%E9%82%81%EF%BC%9A%E6%98%8E%E6%99%9A%E5%85%A9%E5%80%8D%E4%BA%BA%E6%95%B8%E6%94%BB%E6%97%97%E7%BE%8E HTTP/1.1" 200 -
+01-06 16:35 werkzeug     INFO     172.25.0.6 - - [06/Jan/2019 16:35:49] "GET /push_needed/3 HTTP/1.1" 200 -
+01-06 16:35 werkzeug     INFO     172.25.0.6 - - [06/Jan/2019 16:35:49] "GET /push_needed/5 HTTP/1.1" 200 -
+01-06 16:35 werkzeug     INFO     172.25.0.6 - - [06/Jan/2019 16:35:49] "GET /push_needed/7 HTTP/1.1" 200 -
+01-06 16:35 werkzeug     INFO     172.25.0.6 - - [06/Jan/2019 16:35:49] "GET /keyword_title/%E3%80%8C%E5%A4%9C%E8%A5%B2%E3%80%8D%E6%BF%80%E5%8C%96%E7%B6%A0%E6%94%AF%E6%8C%81%E8%80%85%20%E9%99%B3%E5%85%B6%E9%82%81%EF%BC%9A%E6%98%8E%E6%99%9A%E5%85%A9%E5%80%8D%E4%BA%BA%E6%95%B8%E6%94%BB%E6%97%97%E7%BE%8E HTTP/1.1" 200 -
+01-06 16:35 werkzeug     INFO     172.25.0.6 - - [06/Jan/2019 16:35:49] "GET /push_needed/9 HTTP/1.1" 200 -
+01-06 16:35 werkzeug     INFO     172.25.0.6 - - [06/Jan/2019 16:35:49] "GET /push_needed/11 HTTP/1.1" 200 -
+01-06 16:35 werkzeug     INFO     172.25.0.6 - - [06/Jan/2019 16:35:49] "GET /push_needed/13 HTTP/1.1" 200 -
+01-06 16:35 werkzeug     INFO     172.25.0.6 - - [06/Jan/2019 16:35:49] "GET /keyword_title/%E3%80%8C%E5%A4%9C%E8%A5%B2%E3%80%8D%E6%BF%80%E5%8C%96%E7%B6%A0%E6%94%AF%E6%8C%81%E8%80%85%20%E9%99%B3%E5%85%B6%E9%82%81%EF%BC%9A%E6%98%8E%E6%99%9A%E5%85%A9%E5%80%8D%E4%BA%BA%E6%95%B8%E6%94%BB%E6%97%97%E7%BE%8E HTTP/1.1" 200 -
+01-06 16:35 werkzeug     INFO     172.25.0.6 - - [06/Jan/2019 16:35:49] "GET /push_needed/15 HTTP/1.1" 200 -
+01-06 16:35 werkzeug     INFO     172.25.0.6 - - [06/Jan/2019 16:35:50] "GET /push_needed/17 HTTP/1.1" 200 -
